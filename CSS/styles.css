@@ -1,0 +1,21 @@
+/* .div
+{
+    background-color: aquamarine;
+    background: red;
+} */
+table {
+    border-collapse: collapse;
+}
+.outer > * {
+  float: left;
+  background-color:cornflowerblue;
+}
+.outer2 > * {
+    float: left;
+    background-color:khaki;
+}
+.outer3 > * {
+    display: table-row;
+    float: left;
+    background-color:green;
+}
